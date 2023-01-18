@@ -1,5 +1,5 @@
 # Optimisez la gestion des données d'une boutique
- Projet N°5 de la formation de Data Analyst Open Classroom. Ce projet a été créé dans le cadre de la formation de Data Analyst Open Classroom. Il vise à Faire cohabiter les différents jeux de données pour effectuer l'analyse demandée.
+ Projet N°5 de la formation de Data Analyst OpenClassrooms. Ce projet a été créé dans le cadre de la formation de Data Analyst OpenClassrooms. Il vise à Faire cohabiter les différents jeux de données pour effectuer l'analyse demandée.
 
 ## Objectifs pédagogiques
 - Gérer les erreurs et les incohérences présentes sur des données stockées
